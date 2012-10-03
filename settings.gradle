@@ -1,1 +1,1 @@
-include "coopbook-core","coopbook-services","coopbook-front-proto" 
+include "coopbook-core","coopbook-services","coopbook-front-proto","coopbook-backoffice","coopbook-front-springmvc","coopbook-ws","coopbook-facades" 

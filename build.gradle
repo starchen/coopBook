@@ -33,7 +33,7 @@ uploadArchives {
 subprojects {
     apply plugin: 'java'
     apply plugin: 'eclipse-wtp'
-
+    apply plugin: 'eclipse'
     repositories {
        mavenCentral()
     }
